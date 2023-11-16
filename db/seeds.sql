@@ -39,5 +39,4 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES
 ('Bill', 'Russell', 7, 10),
 ('Wilt', 'Chamberlain', 1, 10),
 ('Shaquille', 'O''Neal', 2, 1),
-('Tim', 'Duncan', 3, 1),
-('Larry', 'Bird', 4, 1)
+('Tim', 'Duncan', 3, 1)
