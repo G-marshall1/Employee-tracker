@@ -13,7 +13,7 @@ GitHub Repository Link - https://github.com/G-marshall1/Employee-tracker
 
 For installation please clone code to terminal and install inquirer and mysql.
 
-Demo - ![Alt text](<Untitled_ Nov 15, 2023 5_49 PM.gif>)
+[Untitled_ Nov 15, 2023 5_49 PM.webm](https://github.com/G-marshall1/Employee-tracker/assets/122425742/20516280-d298-46ed-b0a6-185658671f13) 
 
 
 ## Usage
